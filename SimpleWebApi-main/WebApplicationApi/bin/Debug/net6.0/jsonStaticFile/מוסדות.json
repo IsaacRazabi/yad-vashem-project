@@ -1,0 +1,962 @@
+[
+  {
+    "name": ".CONEXIONTRAVEL LTD",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "מבשרת ציון",
+      "address": "שד' החושן 8",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "",
+      "telephone2": "",
+      "email": "luana@test",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "1111111111",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "",
+    "almogCode": "542100260765556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "26917486-6895-ec11-8115-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": ": C. Douglas Killough High School",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "1301 Summit, Lewisville, Texas 75067 Lewisville USA",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "USA"
+    },
+    "communicationInfo": {
+      "telephone": "66-9999-6666",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "2222222",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "9999900",
+    "almogCode": "542100223765556",
+    "institutionType": {
+      "id": "1",
+      "value": "School"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "0a33dfee-3782-eb11-810b-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": ": Calgary Public Library",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "616 Macleod Trail SE Calgary Canada",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "Canada"
+    },
+    "communicationInfo": {
+      "telephone": "888.666.888",
+      "telephone2": "",
+      "email": "patrick.mealey@test",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "33333333",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "9999991",
+    "almogCode": "542100222965556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "affefaea-e87b-eb11-810b-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": ":Norbert-Gymnasium Knechtsteden (Highschool)",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "Knechtsteden 17, D 41540 Dormagen",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "Dormagen"
+    },
+    "communicationInfo": {
+      "telephone": "+49 6666 6666",
+      "telephone2": "",
+      "email": "rolf.lenhartz@test",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "4444444444",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "922222",
+    "almogCode": "542100260565556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "fee84412-2ab3-ec11-8116-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Aardvark Israel",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "ירושלים",
+      "address": "יוסי בן יועזר 34",
+      "zipCode": "9330154",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "777-77777777",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": "077-77777777"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "16",
+      "value": "נוער חו\"ל"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "55555555555",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "93333333",
+    "almogCode": "542100162265556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "bc907c43-e5be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Actions in the Mediterranean",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "23-25 rue du Boulet, B1, 1000 Bruxelles",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "+77 777 77 77 77",
+      "telephone2": "",
+      "email": "benchahra.s@test",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "66666666",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "9444444",
+    "almogCode": "542100252665556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "d446df83-4c95-ec11-8115-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "aish hatorah jerusalem",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "ירושלים",
+      "address": "שבות 1",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "02-7777777",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": "02-6666666666"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "777777777",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "955555",
+    "almogCode": "542100056065556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": true,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "46c95d7b-e9be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Albert-Schweitzer-Gymnasium Gundelfingen",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "Kandelstraße 47, 79194 Gundelfingen,",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "גרמניה"
+    },
+    "communicationInfo": {
+      "telephone": "+49-444444444",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": "+49-555555"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "8888, 888888",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "96666666",
+    "almogCode": "542100222765556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "821be42c-6776-eb11-810b-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Andrews University",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "PO BOX 189 Berrien Springs, MI 49103",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "+133333333333",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "999999999",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "9777777",
+    "almogCode": "542100263365556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "7f177d87-b5c3-ec11-8119-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Anglican International School Jerusalem",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "ירושלים",
+      "address": "הר הנביאים 82",
+      "zipCode": "91001",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "02 555 55555",
+      "telephone2": "",
+      "email": "mixd@test",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "16",
+      "value": "נוער חו\"ל"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "12121212, 121212123",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "98888888",
+    "almogCode": "542100234165556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "f736ac20-94b0-eb11-810e-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Anna-Katharina Kirsch",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "Landeskriminalamt Baden-Württemberg, Taubenheimstrasse 85,",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "70372 Stuttgart"
+    },
+    "communicationInfo": {
+      "telephone": "0045555555555",
+      "telephone2": "",
+      "email": "kontakt@test.test.de",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "AAAAAAAAAAA",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "91211111",
+    "almogCode": "542100281265556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "8d776a1e-8439-ed11-811c-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "ART-TEL MILHAUZ",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "רמת גן",
+      "address": "ביאליק 47 א'",
+      "zipCode": "5246112",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "072-666-88888",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": "072-5555-5555"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "10",
+      "value": "מבוגרים"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "SSSSSSSSSSS",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "91222222",
+    "almogCode": "542100133965556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "c4917c43-e5be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "asia tours",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "תל אביב",
+      "address": "איסרליש 22",
+      "zipCode": "67014",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "03-66666666",
+      "telephone2": "522210348",
+      "email": "",
+      "mobile": null,
+      "fax": "555555555"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "12",
+      "value": "לא פורמאלי"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "DDDDDDDDDDD",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "913333333",
+    "almogCode": "542100171465556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "b6907c43-e5be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "August-Hermann-Francke Hauptschule.",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "Moritz-Rülf-Straße 5, 32756 Detmold, Germany",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "0495555555558",
+      "telephone2": "",
+      "email": "i.engelke@test.de",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "FFFFFFFFFFF",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "91444444",
+    "almogCode": "542100277965556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "1b8fdc17-2816-ed11-811b-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "B PEACE",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "ירושלים",
+      "address": "אבו עובידה",
+      "zipCode": "9999999",
+      "mailingAddress": "אבו עובידה",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "66555555",
+      "telephone2": "",
+      "email": "operation1@test.com",
+      "mobile": null,
+      "fax": "6666666555"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "GGGGGGGGGGGG",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "",
+    "almogCode": "542100207365556",
+    "institutionType": {
+      "id": "2",
+      "value": "Travel Agency"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "c25701d2-e70d-eb11-8105-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "b.peace tours & travel",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "ירושלים",
+      "address": "ת.ד 14287",
+      "zipCode": "91142",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "02-5555555",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": "02-6666666"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "12",
+      "value": "לא פורמאלי"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "HHHHHHHHHHHHH",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "91555555",
+    "almogCode": "542100207365556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "a8907c43-e5be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "BBYO International",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": "800 8th street NW, Washington DC USA, 20001",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "Washington"
+    },
+    "communicationInfo": {
+      "telephone": "33333333",
+      "telephone2": "",
+      "email": "nbenshaya@test.org",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "16",
+      "value": "נוער חו\"ל"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "31-JJJJJ, 31-KKKKKKKK",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "916666666",
+    "almogCode": "542100237065556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "a58c1fd1-8cd1-eb11-810f-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Beis Chana Miami",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "",
+      "address": ": 1525 NW 167th St. Miami Florida",
+      "zipCode": "",
+      "mailingAddress": "",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": "מיאמי"
+    },
+    "communicationInfo": {
+      "telephone": "+1305555555",
+      "telephone2": "",
+      "email": "info@test.org",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "JJJJJJJJJ",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "97777777",
+    "almogCode": "542100221865556",
+    "institutionType": {
+      "id": "",
+      "value": ""
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "8bcb3748-896e-eb11-810b-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "bendito tours",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "קרית ביאליק",
+      "address": "ת.ד:2224  איצטדיון   8",
+      "zipCode": "27121",
+      "mailingAddress": "",
+      "country": {
+        "id": "6c4aeca3-2bfd-df11-b70e-e61f1359af9b",
+        "value": "Israel"
+      },
+      "state": "ישראל"
+    },
+    "communicationInfo": {
+      "telephone": "5488888888",
+      "telephone2": "",
+      "email": "",
+      "mobile": null,
+      "fax": ""
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "12",
+      "value": "לא פורמאלי"
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "UUUUUUUUUUU",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "918888888",
+    "almogCode": "542100124165556",
+    "institutionType": {
+      "id": "8",
+      "value": "ארגון"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "3c8f7c43-e5be-ea11-80ff-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  },
+  {
+    "name": "Bible Land Pilgrimages",
+    "isNotWithCharge": false,
+    "isPayingInstitution": false,
+    "addressInfo": {
+      "city": "חיפה",
+      "address": "ליטניס 1",
+      "zipCode": "31020",
+      "mailingAddress": "ליטניס 1",
+      "country": {
+        "id": "",
+        "value": ""
+      },
+      "state": ""
+    },
+    "communicationInfo": {
+      "telephone": "888888886",
+      "telephone2": "",
+      "email": "biblepil@test.co.il",
+      "mobile": null,
+      "fax": "488888881"
+    },
+    "educationType": null,
+    "ageGroup": {
+      "id": "",
+      "value": ""
+    },
+    "companyNumber": null,
+    "institutionCode": null,
+    "institutionSymbol": "YYYYYYYYYYYYY",
+    "institutionCompanyNumberOrSymbol": null,
+    "sushaimeCode": "",
+    "almogCode": "542100282465556",
+    "institutionType": {
+      "id": "2",
+      "value": "Travel Agency"
+    },
+    "isWithPayingInstitution": false,
+    "city": null,
+    "address": null,
+    "isBlockedForReservation": false,
+    "id": "625601d2-e70d-eb11-8105-00505691117e",
+    "isDeleted": false,
+    "isDirty": false,
+    "isCanceled": false,
+    "isActive": false,
+    "createdOn": null
+  }
+]
