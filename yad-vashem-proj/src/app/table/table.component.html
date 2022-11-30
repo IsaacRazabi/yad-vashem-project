@@ -1,0 +1,44 @@
+<table>
+  <th>הוסף הזמנה</th>
+  <th>קוד שוסהיים</th>
+  <th>ח.פ/סמל מוסד</th>
+  <th>שכבת גיל</th>
+  <th>סוג מוסד</th>
+  <th>עיר</th>
+  <th>כתובת</th>
+  <th>טלפון</th>
+  <th>מוסד</th>
+  <th><img src="./assets/download.png" alt="הוסף הזמנה" /></th>
+  <tr *ngFor="let element of item">
+    <td>
+      <img src="./assets/images.png" alt="הוסף הזמנה" />
+    </td>
+    <td>
+      {{ element.sushaimeCode }}
+    </td>
+    <td>
+      {{ element.institutionSymbol }}
+    </td>
+    <td>
+      {{ element.ageGroup.value }}
+    </td>
+    <td>
+      {{ element.institutionType.value }}
+    </td>
+    <td>
+      {{ element.addressInfo.city }}
+    </td>
+    <td>
+      {{ element.addressInfo.address }}
+    </td>
+    <td>
+      {{ element.communicationInfo.telephone }}
+    </td>
+    <td>
+      {{ element.name }}
+    </td>
+    <td>
+      <img src="./assets/download.png" alt="הוסף הזמנה" />
+    </td>
+  </tr>
+</table>
